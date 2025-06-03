@@ -1,6 +1,6 @@
 # Stock Price Predictor
 
-A machine learning pipeline that predicts stock prices using historical data, interest rates, and news sentiment (done in a separate project).
+This Colab notebook predicts stock prices using historical data, interest rates, and news sentiment (done in a separate project).
 
 ## Features
 - **Regression modeling** using Python and SQL to forecast stock prices  
